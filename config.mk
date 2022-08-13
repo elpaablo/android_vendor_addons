@@ -210,7 +210,8 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidVividThemeOverlay \
+    AndroidBlackThemeOverlay \
+    AndroidTintThemeOverlay \
     riceDroidThemesStub
 
 # Include {Lato,Rubik} fonts
